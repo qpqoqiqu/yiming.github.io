@@ -9,7 +9,7 @@ export default function About() {
           <div className="md:w-1/3 mb-8 md:mb-0">
             <Image
               src="/images/hero.png"
-              alt="内森·斯特林"
+              alt="马艺铭"
               width={400}
               height={400}
               className="rounded-lg mx-auto object-cover"
@@ -17,7 +17,7 @@ export default function About() {
           </div>
           <div className="md:w-2/3 md:pl-12">
             <p className="mb-4">
-              你好，我是内森·斯特林，一名热爱产品的网页开发者与设计师。五年多时间里，我专注于打造美观、好用、以用户为中心的数字作品。
+              你好，我是马艺铭，辽宁阜新人。我乐观积极、热爱生活、认真负责，喜欢把每一件手头的事情做好、做实在。
             </p>
             <p className="mb-4">
               我擅长用 React、Node.js、Python 等现代技术栈搭建响应式网站与 Web 应用。开发与设计双重背景让我能在美感与功能之间找到平衡，让作品既好看又好用。
