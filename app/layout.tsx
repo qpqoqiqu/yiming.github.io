@@ -5,9 +5,8 @@ import type React from "react" // Import React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "内森·斯特林 - 网页开发者与设计师",
-  description:
-    "内森·斯特林的作品集，专注于打造现代、响应式、用户体验优先的网页解决方案。",
+  title: "马艺铭 - 个人主页",
+  description: "马艺铭的个人主页：乐观积极、热爱生活、认真负责。",
     generator: 'v0.app'
 }
 
